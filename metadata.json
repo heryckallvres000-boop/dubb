@@ -1,0 +1,6 @@
+{
+  "name": "AuraDub HUD - Dublagem de Anime em Tempo Real",
+  "description": "HUD gamer e futurista para dublagem e legendagem de animes por IA em tempo real com perfis de voz e mixer de áudio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
